@@ -1,4 +1,4 @@
-![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/e57cb46e-c548-4673-83fe-d8149341ca56)# image-based-k-means-clustering
+# image-based-k-means-clustering
 Define color-based clusters using K-means on any image
 
 
@@ -7,7 +7,7 @@ K=2
 
 
 K=3
- ![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/b489814f-ed95-4585-8bf3-02188c77f02e)
+![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/b489814f-ed95-4585-8bf3-02188c77f02e)
 
 
 K=5
@@ -15,15 +15,15 @@ K=5
 
  
 K=10
- ![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/d9f0e39c-22c0-428c-b13e-fccf974adff0)
+![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/d9f0e39c-22c0-428c-b13e-fccf974adff0)
 
 
 K=15
- ![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/ca2df2f7-2d0b-44f9-b9b8-3b669db1e8bb)
+![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/ca2df2f7-2d0b-44f9-b9b8-3b669db1e8bb)
 
 
 K=20
- ![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/17d13358-a8aa-445d-b234-7bc90b3fc892)
+![image](https://github.com/Awabx1/image-based-k-means-clustering/assets/103901752/17d13358-a8aa-445d-b234-7bc90b3fc892)
 
 
 Notes:
